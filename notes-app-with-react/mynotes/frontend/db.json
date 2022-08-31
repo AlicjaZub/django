@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad\n- Sleep",
+      "updated": "2022-08-25T15:36:45.683Z"
+    },
+    {
+      "id": 2,
+      "body": "Bob from bar\n\n- Take out trash\n- Eat food",
+      "updated": "2022-08-25T15:37:30.892Z"
+    },
+    {
+      "id": 3,
+      "body": "Wash car\n\n- brush teeth\n- clean windows\n",
+      "updated": "2022-08-25T15:36:51.263Z"
+    },
+    {
+      "0": null,
+      "body": "Be Happy\n\n- smile\n- be good to yourself\n",
+      "updated": "2022-08-25T15:37:18.533Z",
+      "id": 4
+    }
+  ]
+}
